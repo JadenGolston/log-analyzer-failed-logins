@@ -15,6 +15,7 @@ This project scans server log files to detect failed SSH login attempts, helping
 Failed Login Summary:
 
 IP Address: 192.168.1.12 — Attempts: 2
+
 IP Address: 192.168.1.23 — Attempts: 2
 
 ## 🎯 Why It Matters
